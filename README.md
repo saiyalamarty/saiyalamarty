@@ -17,12 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-![Sai's github stats](https://github-readme-stats.vercel.app/api?username=saiyalamarty&count_private=true&show_icons=true&hide_border=true)
-
-
-<!-- <br />
-<br />
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=saiyalamarty&show_icons=true&hide_border=true&count_private=true&theme=nord" /> -->
+![Sai's github stats](https://github-readme-stats.vercel.app/api?username=saiyalamarty&count_private=true&show_icons=true&hide_border=true&title_color=adbac7&text_color=adbac6&bg_color=22272e)
 
 <!--
 **saiyalamarty/saiyalamarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
