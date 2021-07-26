@@ -2,7 +2,8 @@
 
 ## Petroleum Engineer and a Research Data Scientist at Corva AI
 - 🔭 I am currently creating algorithms and apps that run on a state of the art Real-Time Cloud Analytics platform.
-- 🌱 I am currently learning ios swift development.
+- 🌱 I am currently experimenting with and learning asyncio and pytest.
+- 📖 I am currently reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron
 
 ### Connect with me:
 [![Linkedin: ysaisharan](https://img.shields.io/badge/-ysaisharan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysaisharan/)](https://www.linkedin.com/in/ysaisharan/)
