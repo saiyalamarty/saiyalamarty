@@ -2,12 +2,11 @@
 
 ## Petroleum Engineer and a Research Data Scientist at Corva AI
 - 🔭 I am currently creating algorithms and apps that run on a state of the art Real-Time Cloud Analytics platform.
-- 🌱 I am currently experimenting with and learning asyncio and pytest.
+- 🌱 I am currently experimenting with and learning FastAPI and ReactJS.
 - 📖 I am currently reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron
 
 ### Connect with me:
 [![Linkedin: ysaisharan](https://img.shields.io/badge/-ysaisharan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysaisharan/)](https://www.linkedin.com/in/ysaisharan/)
-[![Gmail Badge](https://img.shields.io/badge/-sai1494@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sai1494@gmail.com)](mailto:sai1494@gmail.com)
 
 ### Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
@@ -18,9 +17,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
+<!--
 ![Sai's github stats](https://github-readme-stats.vercel.app/api?username=saiyalamarty&count_private=true&show_icons=true&hide_border=true&title_color=adbac7&text_color=adbac6&bg_color=22272e&hide_rank=true)
 
-<!--
 **saiyalamarty/saiyalamarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
