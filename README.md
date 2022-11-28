@@ -17,8 +17,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/saiyalamarty/saiyalamarty/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/saiyalamarty/saiyalamarty/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/saiyalamarty/saiyalamarty/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/saiyalamarty/saiyalamarty/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiyalamarty/saiyalamarty/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiyalamarty/saiyalamarty/output/github-contribution-grid-snake.svg">
+  <img alt="Shows an svg of github contrib heatmap and a snake moving around." src="https://raw.githubusercontent.com/saiyalamarty/saiyalamarty/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <!-- generated with [Platane/snk](https://github.com/Platane/snk) -->
 
