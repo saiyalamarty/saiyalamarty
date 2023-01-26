@@ -1,6 +1,6 @@
 ### Hi there, I'm Sai 👋
 
-## Petroleum Engineer and a Research Data Scientist at Corva AI
+## Petroleum Engineer and a Senior Research Data Scientist at [Corva](https://www.corva.ai/)
 - 🔭 I am currently creating algorithms and apps that run on a state of the art Real-Time Cloud Analytics platform.
 - 🌱 I am currently experimenting with and learning FastAPI and ReactJS.
 - 📖 I am currently reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron
