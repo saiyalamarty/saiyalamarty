@@ -1,9 +1,11 @@
-### Hi there, I'm Sai 👋
+# Hi there, I'm Sai 👋
 
-## Petroleum Engineer and a Senior Research Data Scientist at [Corva](https://www.corva.ai/)
-- 🔭 I am currently creating algorithms and apps that run on a state of the art Real-Time Cloud Analytics platform.
-- 🌱 I am currently experimenting with and learning FastAPI and ReactJS.
-- 📖 I am currently reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron
+### Professional: Principal Research Engineer at [Corva](https://www.corva.ai/)
+- I work on algorithms and apps for the energy industry.
+
+### Personal
+- [pykernel.com](https://www.pykernel.com) - Building pykernel. Write, run and debug python code on the browser. Powered by pyodide and micropython.
+- [ysai.me](https://www.ysai.me) - Personal website. I like to post about things I am learning and building in the tech world.
 
 ### Connect with me:
 [![Linkedin: ysaisharan](https://img.shields.io/badge/-ysaisharan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysaisharan/)](https://www.linkedin.com/in/ysaisharan/)
